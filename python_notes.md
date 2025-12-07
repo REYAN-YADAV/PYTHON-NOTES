@@ -1,4 +1,4 @@
-# Python Complete Notebook (Style 3 — Professional Formatting)
+# Python Complete Notebook 
 
 ## 1. What is Language?
 > **Definition:**  
