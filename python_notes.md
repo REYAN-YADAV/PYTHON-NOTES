@@ -91,6 +91,9 @@ So we use **translators**.
 
 ## 7. Tokens
 > The smallest unit in a program.
+> ex-> a = 10 here, a is veriable and also a token
+>                   = is assigment operator and also a token
+>                   10 is constant also a token
 
 ### Types of Tokens
 - Keywords  
